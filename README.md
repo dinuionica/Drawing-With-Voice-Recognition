@@ -15,7 +15,7 @@ DOWN - to move down
 UP - to move up
 RED - to change the color of the point to red
 BLUE - to change the color of the point to blue
-Orange - to change the color of the point to orange
+ORANGE - to change the color of the point to orange
 YELLOW - to change the color of the point to yellow
 STOP - to stop the point
 RESET - to reset the board
